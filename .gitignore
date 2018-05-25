@@ -1,5 +1,5 @@
 darinyu_credentials.csv
 darinyu.pem
-dist/
+build/
 node_modules/
 package-lock.json
